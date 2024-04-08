@@ -431,3 +431,35 @@ footer {
 footer p {
   text-align: center;
 }
+
+/* CONTACT */
+
+#contacthtml-body {
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.contacthtml-center {
+  padding-top: 11rem;
+}
+
+.return-click {
+  padding-top: 12rem;
+  
+}
+
+.contactmenu {
+  display: block;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.5rem;
+  color: black;
+  text-decoration: none;
+  transition: all 0.3 ease-in-out;
+}
+
+@media (max-width: 1400px) {
+  .imgcontact {
+    display: none;
+  }
+}
