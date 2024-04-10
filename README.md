@@ -1,1 +1,1 @@
-https://maciejwitecki.github.io/Portfolio/
+https://maciejwitecki.github.io/Portfolio/ <-- open site
